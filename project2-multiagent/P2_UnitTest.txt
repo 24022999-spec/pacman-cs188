@@ -1,0 +1,17 @@
+test_actual_pacman_game_state (test_multiagent.MultiagentTests.test_actual_pacman_game_state) ... ok
+test_evaluation_terminal_scores (test_multiagent.MultiagentTests.test_evaluation_terminal_scores) ... ok
+test_minimax_and_expectimax_choose_different_actions (test_multiagent.MultiagentTests.test_minimax_and_expectimax_choose_different_actions) ... ok
+test_multiple_ghosts (test_multiagent.MultiagentTests.test_multiple_ghosts) ... ok
+test_second_pacman_turn_counts_as_new_depth (test_multiagent.MultiagentTests.test_second_pacman_turn_counts_as_new_depth) ... ok
+test_terminal_and_no_moves (test_multiagent.MultiagentTests.test_terminal_and_no_moves) ... ok
+test_q1_reflex_no_moves (test_q1_q3_extended.NewQuestionsTests.test_q1_reflex_no_moves) ... ok
+test_q1_reflex_returns_legal_action_and_action_scores (test_q1_q3_extended.NewQuestionsTests.test_q1_reflex_returns_legal_action_and_action_scores) ... ok
+test_q3_alphabeta_does_not_prune_on_equality (test_q1_q3_extended.NewQuestionsTests.test_q3_alphabeta_does_not_prune_on_equality) ... ok
+test_q3_alphabeta_game_state_multiple_ghosts (test_q1_q3_extended.NewQuestionsTests.test_q3_alphabeta_game_state_multiple_ghosts) ... ok
+test_q3_alphabeta_matches_minimax_and_prunes (test_q1_q3_extended.NewQuestionsTests.test_q3_alphabeta_matches_minimax_and_prunes) ... ok
+test_q3_random_trees_against_full_minimax (test_q1_q3_extended.NewQuestionsTests.test_q3_random_trees_against_full_minimax) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.094s
+
+OK
